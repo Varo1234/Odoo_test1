@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 {
-    'name': 'To-Do Application',
-    'description': 'Manage your personal
-    To-Do
-    tasks.', 
-    'author': 'Daniel Reis',
-    'depends': ['base'],
-    'application': True,
+    'name' : 'Todo',
+    'version' : '1.1',
+    'summary': 'Invoices & Payments',
+    'sequence': 10,
+    'description':"hola jeje",
+
 }
